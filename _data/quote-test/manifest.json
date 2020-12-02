@@ -23,6 +23,14 @@
         "id": "https://saracarl.github.io/quotes6/quote-test/canvas-1/canvas",
         "type": "Canvas",
         "duration": 33,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/quotes6/quote-test/canvas-1/canvas/quotes.json",
+            "label": "quotes"
+          }
+        ],
         "items": [
           {
             "id": "https://saracarl.github.io/quotes6/quote-test/canvas-1/paintings",
